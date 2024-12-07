@@ -1,0 +1,1 @@
+This repository is for the DES encryption / decrpytion algorithm. I started working on this for credit in Cryptography but over the semester I got sidetracked, so it remains unfinished at the moment. I am using a textbook to write this, and I am trying to keep it as low level as possile so I can really understand what is actually happening.
